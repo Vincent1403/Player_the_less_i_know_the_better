@@ -1,4 +1,4 @@
-var audio = new Audio("https://vincent1403.github.io/Sounds/fall_in_love.mp3");
+var audio = new Audio("https://vincent1403.github.io/Sounds/the_less_i_know_the_better.mp3");
 
 $('#play-pause-button').on("click",function(){
   if($(this).hasClass('fa-play'))
